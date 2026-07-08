@@ -1,5 +1,4 @@
-# proyecto3
-somos un grupo universitario de la UPTTMBI
+
 # proyecto3
 somos un grupo universitario de la UPTTMBI
 # Directorio de Nomina (RRHH) - Equipo 3
